@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noms de nen De santuaris on Noms catalans de nena i de nen</title>
+    <link>http://example.org/noms-de-nen-de-santuaris/</link>
+    <description>Recent content in Noms de nen De santuaris on Noms catalans de nena i de nen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca-ES</language>
+    <lastBuildDate>Sat, 22 Nov 2014 15:48:33 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/noms-de-nen-de-santuaris/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lledó</title>
+      <link>http://example.org/nom/lled%C3%B3/</link>
+      <pubDate>Sat, 22 Nov 2014 15:48:33 +0000</pubDate>
+      
+      <guid>http://example.org/nom/lled%C3%B3/</guid>
+      <description>Lledó, santuari a Valls (Alt Camp), patrona de Castelló.</description>
+    </item>
+    
+    <item>
+      <title>Lluc</title>
+      <link>http://example.org/nom/lluc/</link>
+      <pubDate>Sat, 22 Nov 2014 15:48:33 +0000</pubDate>
+      
+      <guid>http://example.org/nom/lluc/</guid>
+      <description>Lluc, santuari a Escorca (Mallorca)</description>
+    </item>
+    
+    <item>
+      <title>Lorda</title>
+      <link>http://example.org/nom/lorda/</link>
+      <pubDate>Sat, 22 Nov 2014 15:48:33 +0000</pubDate>
+      
+      <guid>http://example.org/nom/lorda/</guid>
+      <description>Lorda (Lourdes o Lurdes), la Nou (Berguedà), Lourdes (Midi-Pirénées, França)</description>
+    </item>
+    
+    <item>
+      <title>Quer</title>
+      <link>http://example.org/nom/quer/</link>
+      <pubDate>Sat, 22 Nov 2014 15:48:33 +0000</pubDate>
+      
+      <guid>http://example.org/nom/quer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

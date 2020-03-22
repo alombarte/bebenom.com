@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Noms catalans de nena i de nen</title>
+    <link>http://example.org/pages/</link>
+    <description>Recent content in Pages on Noms catalans de nena i de nen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca-ES</language>
+    <lastBuildDate>Fri, 16 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Consells per triar un nom</title>
+      <link>http://example.org/consells-per-triar-nom/</link>
+      <pubDate>Fri, 16 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/consells-per-triar-nom/</guid>
+      <description>Triar el nom del vostre fill no és una cosa per prendre&amp;rsquo;s a la lleugera, doncs estem definint com serà identificada una persona de per vida.
+No sempre tothom està content amb el seu nom però en la majoria de casos això s&amp;rsquo;ha fet amb tota la bona intenció per part dels pares i sol haver un raonament al darrera de la elecció. Aquí us deixem algunes línies per la reflexió.</description>
+    </item>
+    
+  </channel>
+</rss>
