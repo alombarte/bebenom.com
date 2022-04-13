@@ -5,10 +5,6 @@
     <link>https://bebenom.com/categories/</link>
     <description>Recent content in Categories on Bebènom</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ca-ES</language>
-    
-	<atom:link href="https://bebenom.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>ca-ES</language><atom:link href="https://bebenom.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
