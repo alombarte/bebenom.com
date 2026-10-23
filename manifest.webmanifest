@@ -1,0 +1,21 @@
+{
+  "name": "Bebènom: noms de nena i de nen",
+  "short_name": "Bebènom",
+  "description": "Noms de nena i de nen catalans i d'arreu, amb significat, popularitat i el joc per triar-lo en parella.",
+  "lang": "ca",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FBF7EE",
+  "theme_color": "#FBF7EE",
+  "icons": [
+    { "src": "/icona-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icona-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icona-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Joc per triar el nom", "short_name": "Joc", "url": "/joc-per-triar-el-nom/" },
+    { "name": "Els meus preferits", "short_name": "Preferits", "url": "/preferits/" },
+    { "name": "Explora amb filtres", "short_name": "Explora", "url": "/explora/" }
+  ]
+}
